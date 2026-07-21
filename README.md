@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://vishalbuild.hashnode.dev"><img src="https://img.shields.io/badge/Blog-Vishal_Builds-black?style=flat-square" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-black?style=flat-square" /></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square" /></a>
+  <a href="mailto:vishals040906@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-black?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/vishal-s-272b86330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square" /></a>
 </p>
 
 ---
